@@ -18,14 +18,14 @@
   <img align="center" alt="Enzo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Enzo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Enzo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Enzo-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/795807906561785886/900729710814838804/Webp.net-gifmaker.gif">
+  <img align="right" alt="Enzo-pic" height="100" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/795807906561785886/900729710814838804/Webp.net-gifmaker.gif">
 </div>
   
   ##
   
  <div> 
-  <a href="https://medium.com/enzofagundz"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target ="_blank"></a>
   <a href="mailto:enzo.fagundes014@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://medium.com/enzofagundz"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target ="_blank"></a>
   <a href="https://www.linkedin.com/in/enzofagundz"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/enzofagundz"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
  </div>
