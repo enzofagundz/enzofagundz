@@ -1,8 +1,8 @@
-### Opa, tudo bão? Eu sou o Enzo!<br>
+### Ayo, how are you?<br>
 
-- 🚧 Desenvolvedor em construção
-- 🌱 Atualmente estou estudando HTML, CSS e JavaScript
-- 😄 Pronomes: ele/dele
+- 🚧 I'm 19 years old and a student of web development
+- 🌱 Currently I'm studying HTML, CSS and JavaScript
+- 😄 Pronouns: he/him
 
 ##
 
