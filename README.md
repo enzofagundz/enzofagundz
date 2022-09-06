@@ -1,4 +1,4 @@
-### Ayo, how are you?<br>
+### Ayo, wassup?<br>
 
 - 🚧 I'm 19 years old and a student of web development
 - 🌱 Currently I'm studying HTML, CSS and JavaScript
