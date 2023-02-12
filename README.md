@@ -1,8 +1,8 @@
-### Ayo, wassup?<br>
+### Olá, tudo bem?<br>
 
-- 🚧 I'm 19 years old and a student of web development
-- 🌱 Currently I'm studying HTML, CSS and JavaScript
-- 😄 Pronouns: he/him
+- 🚧 Tenho 20 anos
+- 🌱 Atualmente sou graduando de Sistemas para Internet
+- 😄 Pronomes: ele/dele
 
 ##
 
