@@ -27,9 +27,3 @@
   <a href="mailto:enzo.fagundes014@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/enzofagundz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </div>
-  
-  ##
-
-<div align="center">
-  <img alt="Gif-Forrest" height="335" src="http://24.media.tumblr.com/tumblr_me95gqUMfB1rmn4xao1_500.gif?">
-  </div>
