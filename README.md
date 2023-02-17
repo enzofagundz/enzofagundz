@@ -12,7 +12,8 @@
   <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzofagundz&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
   ##
   
