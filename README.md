@@ -10,11 +10,9 @@
   <a href="https://github.com/enzofagundz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzofagundz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzofagundz&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzofagundz&hide_progress=true&theme=dark"/>
 </div>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
   ##
   
 <div style="display: inline_block">
