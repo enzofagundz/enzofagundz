@@ -18,7 +18,8 @@
   <img align="center" alt="Enzo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Enzo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Enzo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Enzo-pic" height="100" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/795807906561785886/900729710814838804/Webp.net-gifmaker.gif">
+  <i class="devicon-php-plain colored"></i>
+  <i class="devicon-c-plain-wordmark colored"></i>
 </div>
   
   ##
