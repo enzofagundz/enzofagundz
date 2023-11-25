@@ -4,14 +4,7 @@
 - 🌱 Graduando em Sistemas para Internet
 - 😄 Pronomes: ele/dele
 
----
-
-<div align="center">
-  <a href="https://github.com/enzofagundz">
-  <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzofagundz&hide_progress=true&theme=dark"/>
-</div>
-  
-  ---
+<br>
   
 <div style="display: inline_block">
   <img align="center" alt="Enzo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
