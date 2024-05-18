@@ -20,7 +20,7 @@ Sou apaixonado por futebol e um corinthiano sofredor. Nos meus momentos livres, 
 </p>
 
 <p align="left">
-  💼 Ferramentas: Laravel, Vue, MySQL, Docker, Android Studio e Git
+  💼 Ferramentas: Laravel, Vue, MySQL, Docker, Android Studio, Linux e Git
 </p>
 
 <p align="left">
