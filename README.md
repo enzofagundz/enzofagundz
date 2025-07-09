@@ -4,8 +4,6 @@
   width="400px" 
   align="right">
 
-# Enzo Fagundes
-
 Desenvolvedor fullstack com foco em Laravel e Vue.  
 2 anos de experiência em projetos reais, desde APIs até interfaces dinâmicas com Vue e Tailwind.
 
